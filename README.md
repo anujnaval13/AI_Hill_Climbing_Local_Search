@@ -15,4 +15,4 @@ Your goal is to output a mapping from Z to L such that the total time walking in
 2. METHOD 2
    a. run the bash script compile.sh
    b. an executable file main will be made
-   c. run the bash script run.sh like (./run.sh <input_file.txt> <output_filet.txt>
+   c. run the bash script run.sh like ./run.sh <input_file.txt> <output_filet.txt>
